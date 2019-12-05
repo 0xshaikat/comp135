@@ -1,0 +1,13 @@
+Name: Shaikat Islam
+Time Taken: 15 hours
+Resources: 
+1) http://yann.lecun.com/exdb/mnist/
+2) https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/
+3) https://stackoverflow.com/questions/38640109/logistic-regression-python-solvers-defintions
+4) https://en.wikipedia.org/wiki/Early_stopping
+5) https://en.wikipedia.org/wiki/Coordinate_descent
+6) https://towardsdatascience.com/optimization-loss-function-under-the-hood-part-ii-d20a239cde11
+7) http://wiki.fast.ai/index.php/Log_Loss
+8) https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html
+9) https://towardsdatascience.com/why-data-scientists-love-gaussian-6e7a7b726859
+10) https://www.statisticshowto.datasciencecentral.com/box-cox-transformation/

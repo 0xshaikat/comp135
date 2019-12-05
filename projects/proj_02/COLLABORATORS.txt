@@ -1,0 +1,12 @@
+Name: Shaikat Islam
+Time Taken: 14 hours
+Resources: 
+1) D. Kotzias, M. Denil, N. De Freitas, and P. Smyth
+2) https://medium.com/@annabiancajones/sentiment-analysis-of-reviews-text-pre-processing-6359343784fb
+3) https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
+4) https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+5) https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-network
+6) https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
+7) https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+8) https://nlp.stanford.edu/projects/glove/l
+Comments: Great project!

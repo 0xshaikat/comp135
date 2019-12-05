@@ -1,0 +1,17 @@
+==============================
+Name: Shaikat Islam (sislam06)
+===================
+Language: Python 3
+====================================
+Libraries: sys, re, os, math, random
+===============================================================================================
+Instructions to Run:
+> unzip hw01_01.zip
+> cd hw01_01
+> cd code
+> python3 main.py
+> Please enter a training set size (a positive multiple of 250 that is <= 1000): [INPUT]
+> Please enter a training increment (either 10, 25, or 50): [INPUT]
+> Please enter a heuristic to use (either [C]ounting-based or [I]nformation theoretic): [INPUT]
+===============================================================================================
+Consultations: Lecture Slides, Piazza, Daume Text

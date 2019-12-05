@@ -1,0 +1,156 @@
+************************************************************************************************
+FILE CONTENTS:	This is a sample run of the learning program, 
+allowing the training set to grow up to 500  members, and 
+tracking results for learning in increments of 25, with a information-theoretic based heuristic.
+************************************************************************************************
+Please enter a training set size (a positive multiple of 250 that is <= 1000): 500
+Please enter a training increment (either 10, 25, or 50): 25
+Please enter a heuristic to use (either [C]ounting-based or [I]nformation theoretic): i
+Loading Property Information from file.
+Loading Data from database.
+
+Collecting set of 500 training examples.
+
+
+Given current tree, there are 3725 correct classifications out of 5144 possible (a success rate of 72.4145 percent).
+Running with 50 examples in training set.
+
+Given current tree, there are 4543 correct classifications out of 5144 possible (a success rate of 88.3165 percent).
+Running with 75 examples in training set.
+
+Given current tree, there are 4857 correct classifications out of 5144 possible (a success rate of 94.4207 percent).
+Running with 100 examples in training set.
+
+Given current tree, there are 4963 correct classifications out of 5144 possible (a success rate of 96.4813 percent).
+Running with 125 examples in training set.
+
+Given current tree, there are 5056 correct classifications out of 5144 possible (a success rate of 98.2893 percent).
+Running with 150 examples in training set.
+
+Given current tree, there are 5094 correct classifications out of 5144 possible (a success rate of 99.0280 percent).
+Running with 175 examples in training set.
+
+Given current tree, there are 5094 correct classifications out of 5144 possible (a success rate of 99.0280 percent).
+Running with 200 examples in training set.
+
+Given current tree, there are 5094 correct classifications out of 5144 possible (a success rate of 99.0280 percent).
+Running with 225 examples in training set.
+
+Given current tree, there are 5094 correct classifications out of 5144 possible (a success rate of 99.0280 percent).
+Running with 250 examples in training set.
+
+Given current tree, there are 5094 correct classifications out of 5144 possible (a success rate of 99.0280 percent).
+Running with 275 examples in training set.
+
+Given current tree, there are 5094 correct classifications out of 5144 possible (a success rate of 99.0280 percent).
+Running with 300 examples in training set.
+
+Given current tree, there are 5094 correct classifications out of 5144 possible (a success rate of 99.0280 percent).
+Running with 325 examples in training set.
+
+Given current tree, there are 5096 correct classifications out of 5144 possible (a success rate of 99.0669 percent).
+Running with 350 examples in training set.
+
+Given current tree, there are 5096 correct classifications out of 5144 possible (a success rate of 99.0669 percent).
+Running with 375 examples in training set.
+
+Given current tree, there are 5096 correct classifications out of 5144 possible (a success rate of 99.0669 percent).
+Running with 400 examples in training set.
+
+Given current tree, there are 5096 correct classifications out of 5144 possible (a success rate of 99.0669 percent).
+Running with 425 examples in training set.
+
+Given current tree, there are 5096 correct classifications out of 5144 possible (a success rate of 99.0669 percent).
+Running with 450 examples in training set.
+
+Given current tree, there are 5096 correct classifications out of 5144 possible (a success rate of 99.0669 percent).
+Running with 475 examples in training set.
+
+Given current tree, there are 5096 correct classifications out of 5144 possible (a success rate of 99.0669 percent).
+Running with 500 examples in training set.
+
+Given current tree, there are 5096 correct classifications out of 5144 possible (a success rate of 99.0669 percent).
+
+-------------------
+Final Decision Tree
+-------------------
+
+Attrib #3: e
+	Attrib #3: p
+		Attrib #3: b
+			Attrib #3: c
+				Attrib #5: a
+					Attrib #5: f
+						Attrib #5: l
+							Attrib #5: c
+								Attrib #2: f
+									Attrib #3: g
+										Attrib #5: p
+											Attrib #1: x
+												Attrib #3: n
+													Attrib #2: y
+														Attrib #4: f
+															Poisonous
+															Edible
+														Poisonous
+													Edible
+												Edible
+											Poisonous
+										Edible
+									Edible
+								Poisonous
+							Edible
+						Poisonous
+					Edible
+				Attrib #5: a
+					Attrib #5: f
+						Attrib #5: l
+							Attrib #5: c
+								Attrib #2: f
+									Attrib #3: g
+										Attrib #5: p
+											Attrib #1: x
+												Attrib #3: n
+													Attrib #2: y
+														Attrib #4: f
+															Poisonous
+															Edible
+														Poisonous
+													Edible
+												Edible
+											Poisonous
+										Edible
+									Edible
+								Poisonous
+							Edible
+						Poisonous
+					Edible
+			Poisonous
+		Poisonous
+	Edible
+
+----------
+Statistics
+----------
+Training set size: 25. Success: 72.4145 percent.
+Training set size: 50. Success: 88.3165 percent.
+Training set size: 75. Success: 94.4207 percent.
+Training set size: 100. Success: 96.4813 percent.
+Training set size: 125. Success: 98.2893 percent.
+Training set size: 150. Success: 99.0280 percent.
+Training set size: 175. Success: 99.0280 percent.
+Training set size: 200. Success: 99.0280 percent.
+Training set size: 225. Success: 99.0280 percent.
+Training set size: 250. Success: 99.0280 percent.
+Training set size: 275. Success: 99.0280 percent.
+Training set size: 300. Success: 99.0280 percent.
+Training set size: 325. Success: 99.0669 percent.
+Training set size: 350. Success: 99.0669 percent.
+Training set size: 375. Success: 99.0669 percent.
+Training set size: 400. Success: 99.0669 percent.
+Training set size: 425. Success: 99.0669 percent.
+Training set size: 450. Success: 99.0669 percent.
+Training set size: 475. Success: 99.0669 percent.
+Training set size: 500. Success: 99.0669 percent.
+
+

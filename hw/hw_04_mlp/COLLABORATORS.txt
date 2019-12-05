@@ -1,0 +1,9 @@
+Name: Shaikat Islam
+Time Taken: 2.5 hours
+Resources: 
+1) https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f
+2) https://arxiv.org/pdf/1906.02613.pdf
+3) https://cs.stanford.edu/~acoates/papers/LeNgiCoaLahProNg11.pdf
+Parts that Made Me Seek Help:
+I seeked help when asked to discuss *why* a certain classifier acted in a certain way -- as a result, I used some 
+substantiated online resources to qualify my reasoning.

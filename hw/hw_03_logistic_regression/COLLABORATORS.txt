@@ -1,0 +1,5 @@
+Name: Shaikat Islam
+Time Taken: 6 hours
+Resources Used: Evaluating ML Models Ch. 2 by Alice Zheng
+Why I Used the Resource: To analyze the confusion matrices and understand
+ROC curves.
